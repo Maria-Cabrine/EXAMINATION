@@ -1,0 +1,20 @@
+.Sheila pink{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    background-color: red;
+    padding: 30px;
+
+}
+Sheila a{
+    text-decoration: none;
+    color: white;
+}
+
+Sheila a:hover{
+    font: size 30px; 
+    color: white;
+}
+p{
+
+}
